@@ -1,0 +1,1432 @@
+
+
+NPM         : 51456
+PM          : 69033984
+WS          : 10076160
+Id          : 6876
+ProcessName : ACCStd
+
+NPM         : 8512
+PM          : 3346432
+WS          : 2867200
+Id          : 4256
+ProcessName : ACCSvc
+
+NPM         : 18848
+PM          : 2904064
+WS          : 11767808
+Id          : 4852
+ProcessName : adb
+
+NPM         : 16712
+PM          : 26705920
+WS          : 36065280
+Id          : 21516
+ProcessName : ai
+
+NPM         : 12568
+PM          : 4091904
+WS          : 2752512
+Id          : 2352
+ProcessName : amdfendrsr
+
+NPM         : 17496
+PM          : 4694016
+WS          : 29425664
+Id          : 19652
+ProcessName : AMDRSServ
+
+NPM         : 23384
+PM          : 14974976
+WS          : 31342592
+Id          : 10564
+ProcessName : ApplicationFrameHost
+
+NPM         : 9040
+PM          : 1720320
+WS          : 2400256
+Id          : 2360
+ProcessName : atiesrxx
+
+NPM         : 15768
+PM          : 8753152
+WS          : 18575360
+Id          : 1120
+ProcessName : brave
+
+NPM         : 24976
+PM          : 36765696
+WS          : 66236416
+Id          : 3356
+ProcessName : brave
+
+NPM         : 35488
+PM          : 25264128
+WS          : 50425856
+Id          : 3708
+ProcessName : brave
+
+NPM         : 21104
+PM          : 19709952
+WS          : 26701824
+Id          : 3824
+ProcessName : brave
+
+NPM         : 25112
+PM          : 56807424
+WS          : 105074688
+Id          : 4600
+ProcessName : brave
+
+NPM         : 25896
+PM          : 71741440
+WS          : 120729600
+Id          : 5312
+ProcessName : brave
+
+NPM         : 22664
+PM          : 27701248
+WS          : 64909312
+Id          : 6220
+ProcessName : brave
+
+NPM         : 11008
+PM          : 2387968
+WS          : 7913472
+Id          : 6896
+ProcessName : brave
+
+NPM         : 25016
+PM          : 41971712
+WS          : 91156480
+Id          : 7232
+ProcessName : brave
+
+NPM         : 25552
+PM          : 50868224
+WS          : 96628736
+Id          : 7928
+ProcessName : brave
+
+NPM         : 40984
+PM          : 301232128
+WS          : 293195776
+Id          : 8776
+ProcessName : brave
+
+NPM         : 28360
+PM          : 59314176
+WS          : 103886848
+Id          : 9040
+ProcessName : brave
+
+NPM         : 25792
+PM          : 94932992
+WS          : 144470016
+Id          : 9564
+ProcessName : brave
+
+NPM         : 88808
+PM          : 304902144
+WS          : 214765568
+Id          : 10176
+ProcessName : brave
+
+NPM         : 19536
+PM          : 13881344
+WS          : 25882624
+Id          : 11232
+ProcessName : brave
+
+NPM         : 23072
+PM          : 27287552
+WS          : 62210048
+Id          : 12328
+ProcessName : brave
+
+NPM         : 28240
+PM          : 67772416
+WS          : 109936640
+Id          : 12368
+ProcessName : brave
+
+NPM         : 23144
+PM          : 27344896
+WS          : 67653632
+Id          : 12656
+ProcessName : brave
+
+NPM         : 30960
+PM          : 276860928
+WS          : 256442368
+Id          : 12708
+ProcessName : brave
+
+NPM         : 28048
+PM          : 80211968
+WS          : 130240512
+Id          : 13772
+ProcessName : brave
+
+NPM         : 19440
+PM          : 8814592
+WS          : 22310912
+Id          : 13796
+ProcessName : brave
+
+NPM         : 21712
+PM          : 20496384
+WS          : 46125056
+Id          : 13816
+ProcessName : brave
+
+NPM         : 26544
+PM          : 44281856
+WS          : 93392896
+Id          : 14496
+ProcessName : brave
+
+NPM         : 29536
+PM          : 157597696
+WS          : 206131200
+Id          : 14668
+ProcessName : brave
+
+NPM         : 30744
+PM          : 154984448
+WS          : 216227840
+Id          : 15040
+ProcessName : brave
+
+NPM         : 25384
+PM          : 37384192
+WS          : 69505024
+Id          : 16164
+ProcessName : brave
+
+NPM         : 19984
+PM          : 16211968
+WS          : 23470080
+Id          : 18624
+ProcessName : brave
+
+NPM         : 25656
+PM          : 62042112
+WS          : 121331712
+Id          : 19080
+ProcessName : brave
+
+NPM         : 28360
+PM          : 68435968
+WS          : 117325824
+Id          : 19800
+ProcessName : brave
+
+NPM         : 23200
+PM          : 32624640
+WS          : 65007616
+Id          : 20092
+ProcessName : brave
+
+NPM         : 96232
+PM          : 254369792
+WS          : 306040832
+Id          : 20264
+ProcessName : brave
+
+NPM         : 32928
+PM          : 251764736
+WS          : 267534336
+Id          : 20360
+ProcessName : brave
+
+NPM         : 27480
+PM          : 83456000
+WS          : 130502656
+Id          : 20436
+ProcessName : brave
+
+NPM         : 26200
+PM          : 51142656
+WS          : 98369536
+Id          : 22412
+ProcessName : brave
+
+NPM         : 24840
+PM          : 39350272
+WS          : 95498240
+Id          : 22508
+ProcessName : brave
+
+NPM         : 11936
+PM          : 1789952
+WS          : 1323008
+Id          : 9424
+ProcessName : BraveCrashHandler
+
+NPM         : 9696
+PM          : 1773568
+WS          : 1101824
+Id          : 20116
+ProcessName : BraveCrashHandler64
+
+NPM         : 4888
+PM          : 1982464
+WS          : 3575808
+Id          : 864
+ProcessName : cmd
+
+NPM         : 8496
+PM          : 3067904
+WS          : 5799936
+Id          : 6612
+ProcessName : cmd
+
+NPM         : 5024
+PM          : 2985984
+WS          : 3870720
+Id          : 10968
+ProcessName : cmd
+
+NPM         : 10456
+PM          : 5849088
+WS          : 3264512
+Id          : 5692
+ProcessName : conhost
+
+NPM         : 10456
+PM          : 5988352
+WS          : 13172736
+Id          : 6452
+ProcessName : conhost
+
+NPM         : 9728
+PM          : 1495040
+WS          : 8781824
+Id          : 6584
+ProcessName : conhost
+
+NPM         : 7328
+PM          : 5341184
+WS          : 2637824
+Id          : 8132
+ProcessName : conhost
+
+NPM         : 8008
+PM          : 5459968
+WS          : 6606848
+Id          : 15016
+ProcessName : conhost
+
+NPM         : 8008
+PM          : 5484544
+WS          : 2232320
+Id          : 20176
+ProcessName : conhost
+
+NPM         : 27384
+PM          : 2658304
+WS          : 3813376
+Id          : 708
+ProcessName : csrss
+
+NPM         : 31584
+PM          : 6209536
+WS          : 7118848
+Id          : 19420
+ProcessName : csrss
+
+NPM         : 21000
+PM          : 8011776
+WS          : 27860992
+Id          : 9296
+ProcessName : ctfmon
+
+NPM         : 8560
+PM          : 1544192
+WS          : 1605632
+Id          : 13644
+ProcessName : dasHost
+
+NPM         : 13592
+PM          : 3432448
+WS          : 17371136
+Id          : 22320
+ProcessName : DataExchangeHost
+
+NPM         : 8424
+PM          : 1921024
+WS          : 7897088
+Id          : 11804
+ProcessName : dllhost
+
+NPM         : 24880
+PM          : 5812224
+WS          : 15089664
+Id          : 19972
+ProcessName : dllhost
+
+NPM         : 12376
+PM          : 18714624
+WS          : 6021120
+Id          : 4228
+ProcessName : DtsApo4Service
+
+NPM         : 75048
+PM          : 391540736
+WS          : 222801920
+Id          : 10656
+ProcessName : dwm
+
+NPM         : 29112
+PM          : 63676416
+WS          : 7065600
+Id          : 7572
+ProcessName : ePowerButton_NB
+
+NPM         : 239840
+PM          : 263380992
+WS          : 320983040
+Id          : 11936
+ProcessName : explorer
+
+NPM         : 4968
+PM          : 610304
+WS          : 3567616
+Id          : 17576
+ProcessName : Fetch
+
+NPM         : 6928
+PM          : 1794048
+WS          : 1024000
+Id          : 1444
+ProcessName : fontdrvhost
+
+NPM         : 10464
+PM          : 4902912
+WS          : 10883072
+Id          : 6944
+ProcessName : fontdrvhost
+
+NPM         : 8016
+PM          : 1490944
+WS          : 2359296
+Id          : 4148
+ProcessName : gameinputsvc
+
+NPM         : 14064
+PM          : 3764224
+WS          : 15712256
+Id          : 9768
+ProcessName : gameinputsvc
+
+NPM         : 28072
+PM          : 9474048
+WS          : 26271744
+Id          : 5400
+ProcessName : gamingservices
+
+NPM         : 7192
+PM          : 1138688
+WS          : 5341184
+Id          : 9324
+ProcessName : gamingservicesnet
+
+NPM         : 16888
+PM          : 5050368
+WS          : 4730880
+Id          : 12428
+ProcessName : HostAppServiceUpdater
+
+NPM         : 272
+PM          : 61440
+WS          : 8192
+Id          : 0
+ProcessName : Idle
+
+NPM         : 35200
+PM          : 11022336
+WS          : 35049472
+Id          : 16776
+ProcessName : IDMan
+
+NPM         : 9576
+PM          : 2596864
+WS          : 6451200
+Id          : 20520
+ProcessName : IDMMsgHost
+
+NPM         : 12160
+PM          : 1695744
+WS          : 9871360
+Id          : 12168
+ProcessName : IEMonitor
+
+NPM         : 10576
+PM          : 3035136
+WS          : 3031040
+Id          : 4244
+ProcessName : KillerAnalyticsService
+
+NPM         : 15224
+PM          : 117288960
+WS          : 13664256
+Id          : 5280
+ProcessName : KillerNetworkService
+
+NPM         : 92464
+PM          : 57696256
+WS          : 62124032
+Id          : 7800
+ProcessName : Lively
+
+NPM         : 11552
+PM          : 1839104
+WS          : 3473408
+Id          : 8668
+ProcessName : LocationNotificationWindows
+
+NPM         : 34128
+PM          : 38641664
+WS          : 52482048
+Id          : 18076
+ProcessName : LockApp
+
+NPM         : 31040
+PM          : 10833920
+WS          : 22827008
+Id          : 1284
+ProcessName : lsass
+
+NPM         : 0
+PM          : 1290240
+WS          : 170409984
+Id          : 2860
+ProcessName : Memory Compression
+
+NPM         : 13520
+PM          : 2777088
+WS          : 11866112
+Id          : 16504
+ProcessName : MoNotificationUx
+
+NPM         : 25128
+PM          : 74371072
+WS          : 57364480
+Id          : 3212
+ProcessName : MoUsoCoreWorker
+
+NPM         : 13048
+PM          : 6889472
+WS          : 18227200
+Id          : 2948
+ProcessName : msedge
+
+NPM         : 11280
+PM          : 2260992
+WS          : 8540160
+Id          : 11124
+ProcessName : msedge
+
+NPM         : 29272
+PM          : 32825344
+WS          : 50487296
+Id          : 15912
+ProcessName : msedge
+
+NPM         : 16272
+PM          : 14761984
+WS          : 28430336
+Id          : 16720
+ProcessName : msedge
+
+NPM         : 20784
+PM          : 11673600
+WS          : 32894976
+Id          : 21416
+ProcessName : msedge
+
+NPM         : 50240
+PM          : 53616640
+WS          : 132644864
+Id          : 22084
+ProcessName : msedge
+
+NPM         : 18312
+PM          : 23482368
+WS          : 53592064
+Id          : 22436
+ProcessName : msedge
+
+NPM         : 125776
+PM          : 368553984
+WS          : 276922368
+Id          : 5860
+ProcessName : MsMpEng
+
+NPM         : 22992
+PM          : 5545984
+WS          : 27082752
+Id          : 21420
+ProcessName : msteamsupdate
+
+NPM         : 12872
+PM          : 4091904
+WS          : 10960896
+Id          : 19940
+ProcessName : NisSrv
+
+NPM         : 33224
+PM          : 86016000
+WS          : 108380160
+Id          : 19164
+ProcessName : NitroSense
+
+NPM         : 349624
+PM          : 15036416
+WS          : 23683072
+Id          : 4220
+ProcessName : nvcontainer
+
+NPM         : 21952
+PM          : 9744384
+WS          : 29421568
+Id          : 11480
+ProcessName : nvcontainer
+
+NPM         : 30200
+PM          : 41009152
+WS          : 34926592
+Id          : 14596
+ProcessName : nvcontainer
+
+NPM         : 35656
+PM          : 47390720
+WS          : 54718464
+Id          : 1612
+ProcessName : NVDisplay.Container
+
+NPM         : 18176
+PM          : 10256384
+WS          : 13402112
+Id          : 2256
+ProcessName : NVDisplay.Container
+
+NPM         : 31648
+PM          : 57835520
+WS          : 55853056
+Id          : 6592
+ProcessName : NVIDIA Share
+
+NPM         : 45640
+PM          : 39620608
+WS          : 55488512
+Id          : 7380
+ProcessName : NVIDIA Share
+
+NPM         : 35416
+PM          : 59121664
+WS          : 73781248
+Id          : 10864
+ProcessName : NVIDIA Share
+
+NPM         : 82680
+PM          : 33189888
+WS          : 25030656
+Id          : 14288
+ProcessName : NVIDIA Web Helper
+
+NPM         : 13752
+PM          : 2994176
+WS          : 13303808
+Id          : 8812
+ProcessName : nvsphelper64
+
+NPM         : 29304
+PM          : 48140288
+WS          : 27897856
+Id          : 17252
+ProcessName : OfficeClickToRun
+
+NPM         : 11000
+PM          : 2220032
+WS          : 9162752
+Id          : 8252
+ProcessName : OpenConsole
+
+NPM         : 13416
+PM          : 2695168
+WS          : 12120064
+Id          : 12108
+ProcessName : OpenConsole
+
+NPM         : 106544
+PM          : 77705216
+WS          : 55599104
+Id          : 17604
+ProcessName : PhoneExperienceHost
+
+NPM         : 66784
+PM          : 132976640
+WS          : 170704896
+Id          : 21340
+ProcessName : POWERPNT
+
+NPM         : 26888
+PM          : 55721984
+WS          : 70696960
+Id          : 15992
+ProcessName : powershell
+
+NPM         : 28648
+PM          : 58810368
+WS          : 64389120
+Id          : 22296
+ProcessName : powershell
+
+NPM         : 16192
+PM          : 3235840
+WS          : 18378752
+Id          : 9116
+ProcessName : PSAdminAgent
+
+NPM         : 11344
+PM          : 2383872
+WS          : 2908160
+Id          : 5140
+ProcessName : PSAgent
+
+NPM         : 18352
+PM          : 14925824
+WS          : 11890688
+Id          : 9520
+ProcessName : PSSvc
+
+NPM         : 14496
+PM          : 9940992
+WS          : 17035264
+Id          : 1756
+ProcessName : QAAdminAgent
+
+NPM         : 10120
+PM          : 1646592
+WS          : 8654848
+Id          : 16416
+ProcessName : QAAgent
+
+NPM         : 11352
+PM          : 4071424
+WS          : 5574656
+Id          : 12700
+ProcessName : QASvc
+
+NPM         : 76176
+PM          : 173051904
+WS          : 39108608
+Id          : 9808
+ProcessName : RadeonSoftware
+
+NPM         : 19312
+PM          : 12828672
+WS          : 38510592
+Id          : 176
+ProcessName : Registry
+
+NPM         : 17056
+PM          : 4198400
+WS          : 6201344
+Id          : 4236
+ProcessName : RtkAudUService64
+
+NPM         : 12560
+PM          : 2793472
+WS          : 11722752
+Id          : 8576
+ProcessName : RtkAudUService64
+
+NPM         : 14192
+PM          : 4505600
+WS          : 13402112
+Id          : 14980
+ProcessName : RtkAudUService64
+
+NPM         : 10600
+PM          : 2289664
+WS          : 10989568
+Id          : 1804
+ProcessName : RuntimeBroker
+
+NPM         : 31376
+PM          : 12050432
+WS          : 47767552
+Id          : 3980
+ProcessName : RuntimeBroker
+
+NPM         : 10056
+PM          : 2125824
+WS          : 10530816
+Id          : 5812
+ProcessName : RuntimeBroker
+
+NPM         : 19848
+PM          : 6619136
+WS          : 26800128
+Id          : 11132
+ProcessName : RuntimeBroker
+
+NPM         : 17776
+PM          : 4857856
+WS          : 20639744
+Id          : 13116
+ProcessName : RuntimeBroker
+
+NPM         : 11688
+PM          : 2519040
+WS          : 13320192
+Id          : 15608
+ProcessName : RuntimeBroker
+
+NPM         : 27224
+PM          : 11550720
+WS          : 37441536
+Id          : 16660
+ProcessName : RuntimeBroker
+
+NPM         : 14720
+PM          : 5410816
+WS          : 21463040
+Id          : 17748
+ProcessName : RuntimeBroker
+
+NPM         : 24488
+PM          : 17072128
+WS          : 23855104
+Id          : 9056
+ProcessName : SDXHelper
+
+NPM         : 127808
+PM          : 193155072
+WS          : 82305024
+Id          : 18484
+ProcessName : SearchHost
+
+NPM         : 31336
+PM          : 9101312
+WS          : 15216640
+Id          : 3640
+ProcessName : SecurityHealthService
+
+NPM         : 10328
+PM          : 1916928
+WS          : 10383360
+Id          : 11556
+ProcessName : SecurityHealthSystray
+
+NPM         : 18536
+PM          : 7102464
+WS          : 13430784
+Id          : 1256
+ProcessName : services
+
+NPM         : 41352
+PM          : 28323840
+WS          : 47312896
+Id          : 9076
+ProcessName : ShellExperienceHost
+
+NPM         : 22224
+PM          : 6828032
+WS          : 33165312
+Id          : 18164
+ProcessName : sihost
+
+NPM         : 11464
+PM          : 2850816
+WS          : 11046912
+Id          : 21132
+ProcessName : smartscreen
+
+NPM         : 3768
+PM          : 1150976
+WS          : 483328
+Id          : 656
+ProcessName : smss
+
+NPM         : 27368
+PM          : 9805824
+WS          : 13971456
+Id          : 3812
+ProcessName : spoolsv
+
+NPM         : 48304
+PM          : 74665984
+WS          : 80601088
+Id          : 15852
+ProcessName : StartMenuExperienceHost
+
+NPM         : 31504
+PM          : 25030656
+WS          : 8667136
+Id          : 9868
+ProcessName : StorPSCTL
+
+NPM         : 31192
+PM          : 21000192
+WS          : 33865728
+Id          : 1408
+ProcessName : svchost
+
+NPM         : 22712
+PM          : 16388096
+WS          : 19226624
+Id          : 1544
+ProcessName : svchost
+
+NPM         : 11824
+PM          : 3510272
+WS          : 7135232
+Id          : 1588
+ProcessName : svchost
+
+NPM         : 16584
+PM          : 5468160
+WS          : 13520896
+Id          : 1632
+ProcessName : svchost
+
+NPM         : 13768
+PM          : 3293184
+WS          : 6529024
+Id          : 1672
+ProcessName : svchost
+
+NPM         : 10328
+PM          : 2527232
+WS          : 5140480
+Id          : 1692
+ProcessName : svchost
+
+NPM         : 13096
+PM          : 3125248
+WS          : 5812224
+Id          : 1728
+ProcessName : svchost
+
+NPM         : 19320
+PM          : 4866048
+WS          : 6713344
+Id          : 1780
+ProcessName : svchost
+
+NPM         : 31536
+PM          : 6316032
+WS          : 6615040
+Id          : 1792
+ProcessName : svchost
+
+NPM         : 27488
+PM          : 12406784
+WS          : 17801216
+Id          : 1856
+ProcessName : svchost
+
+NPM         : 10480
+PM          : 2052096
+WS          : 4837376
+Id          : 1928
+ProcessName : svchost
+
+NPM         : 19888
+PM          : 7450624
+WS          : 11829248
+Id          : 2264
+ProcessName : svchost
+
+NPM         : 11144
+PM          : 2543616
+WS          : 6262784
+Id          : 2300
+ProcessName : svchost
+
+NPM         : 15976
+PM          : 20021248
+WS          : 16605184
+Id          : 2344
+ProcessName : svchost
+
+NPM         : 12368
+PM          : 4034560
+WS          : 10817536
+Id          : 2400
+ProcessName : svchost
+
+NPM         : 11928
+PM          : 2732032
+WS          : 4890624
+Id          : 2452
+ProcessName : svchost
+
+NPM         : 13456
+PM          : 31547392
+WS          : 26054656
+Id          : 2672
+ProcessName : svchost
+
+NPM         : 8288
+PM          : 1359872
+WS          : 2166784
+Id          : 2752
+ProcessName : svchost
+
+NPM         : 10384
+PM          : 2220032
+WS          : 4976640
+Id          : 2760
+ProcessName : svchost
+
+NPM         : 16176
+PM          : 7421952
+WS          : 3891200
+Id          : 2784
+ProcessName : svchost
+
+NPM         : 13824
+PM          : 2060288
+WS          : 5623808
+Id          : 2908
+ProcessName : svchost
+
+NPM         : 12480
+PM          : 2908160
+WS          : 6144000
+Id          : 2960
+ProcessName : svchost
+
+NPM         : 13432
+PM          : 2605056
+WS          : 5562368
+Id          : 2968
+ProcessName : svchost
+
+NPM         : 18864
+PM          : 12251136
+WS          : 16814080
+Id          : 3056
+ProcessName : svchost
+
+NPM         : 16432
+PM          : 4988928
+WS          : 11661312
+Id          : 3148
+ProcessName : svchost
+
+NPM         : 9368
+PM          : 1576960
+WS          : 3534848
+Id          : 3176
+ProcessName : svchost
+
+NPM         : 13072
+PM          : 3833856
+WS          : 5197824
+Id          : 3276
+ProcessName : svchost
+
+NPM         : 15928
+PM          : 3608576
+WS          : 7081984
+Id          : 3284
+ProcessName : svchost
+
+NPM         : 10776
+PM          : 2236416
+WS          : 4337664
+Id          : 3416
+ProcessName : svchost
+
+NPM         : 12368
+PM          : 2813952
+WS          : 12587008
+Id          : 3472
+ProcessName : svchost
+
+NPM         : 29304
+PM          : 8802304
+WS          : 16740352
+Id          : 3500
+ProcessName : svchost
+
+NPM         : 24440
+PM          : 4825088
+WS          : 7655424
+Id          : 3524
+ProcessName : svchost
+
+NPM         : 7880
+PM          : 4444160
+WS          : 3248128
+Id          : 3688
+ProcessName : svchost
+
+NPM         : 20360
+PM          : 13918208
+WS          : 11968512
+Id          : 3780
+ProcessName : svchost
+
+NPM         : 37480
+PM          : 15065088
+WS          : 21008384
+Id          : 3876
+ProcessName : svchost
+
+NPM         : 12040
+PM          : 2150400
+WS          : 3510272
+Id          : 4028
+ProcessName : svchost
+
+NPM         : 33832
+PM          : 35565568
+WS          : 15900672
+Id          : 4136
+ProcessName : svchost
+
+NPM         : 8152
+PM          : 1609728
+WS          : 3219456
+Id          : 4156
+ProcessName : svchost
+
+NPM         : 21856
+PM          : 3162112
+WS          : 6864896
+Id          : 4164
+ProcessName : svchost
+
+NPM         : 9648
+PM          : 1929216
+WS          : 3985408
+Id          : 4184
+ProcessName : svchost
+
+NPM         : 22416
+PM          : 5701632
+WS          : 16883712
+Id          : 4200
+ProcessName : svchost
+
+NPM         : 17776
+PM          : 3969024
+WS          : 9224192
+Id          : 4400
+ProcessName : svchost
+
+NPM         : 5840
+PM          : 1114112
+WS          : 2678784
+Id          : 4520
+ProcessName : svchost
+
+NPM         : 17192
+PM          : 7651328
+WS          : 12111872
+Id          : 4948
+ProcessName : svchost
+
+NPM         : 10328
+PM          : 1970176
+WS          : 4182016
+Id          : 4968
+ProcessName : svchost
+
+NPM         : 31008
+PM          : 10682368
+WS          : 20828160
+Id          : 5580
+ProcessName : svchost
+
+NPM         : 13192
+PM          : 2547712
+WS          : 4579328
+Id          : 5588
+ProcessName : svchost
+
+NPM         : 43136
+PM          : 1785856
+WS          : 2195456
+Id          : 6556
+ProcessName : svchost
+
+NPM         : 20568
+PM          : 5406720
+WS          : 13066240
+Id          : 6748
+ProcessName : svchost
+
+NPM         : 14952
+PM          : 4952064
+WS          : 16117760
+Id          : 7736
+ProcessName : svchost
+
+NPM         : 25824
+PM          : 5419008
+WS          : 13647872
+Id          : 8128
+ProcessName : svchost
+
+NPM         : 11552
+PM          : 2113536
+WS          : 4800512
+Id          : 8488
+ProcessName : svchost
+
+NPM         : 14016
+PM          : 3186688
+WS          : 10158080
+Id          : 8860
+ProcessName : svchost
+
+NPM         : 14680
+PM          : 3321856
+WS          : 17346560
+Id          : 9708
+ProcessName : svchost
+
+NPM         : 22096
+PM          : 3371008
+WS          : 8069120
+Id          : 9792
+ProcessName : svchost
+
+NPM         : 24176
+PM          : 25612288
+WS          : 16195584
+Id          : 9900
+ProcessName : svchost
+
+NPM         : 15360
+PM          : 3813376
+WS          : 21061632
+Id          : 10164
+ProcessName : svchost
+
+NPM         : 9240
+PM          : 1978368
+WS          : 8343552
+Id          : 10948
+ProcessName : svchost
+
+NPM         : 19952
+PM          : 4907008
+WS          : 13828096
+Id          : 10992
+ProcessName : svchost
+
+NPM         : 16336
+PM          : 4325376
+WS          : 17444864
+Id          : 11304
+ProcessName : svchost
+
+NPM         : 20624
+PM          : 7544832
+WS          : 28454912
+Id          : 11628
+ProcessName : svchost
+
+NPM         : 25320
+PM          : 3837952
+WS          : 7430144
+Id          : 11696
+ProcessName : svchost
+
+NPM         : 9104
+PM          : 1712128
+WS          : 9195520
+Id          : 11956
+ProcessName : svchost
+
+NPM         : 9512
+PM          : 1757184
+WS          : 2969600
+Id          : 12076
+ProcessName : svchost
+
+NPM         : 16648
+PM          : 2326528
+WS          : 4169728
+Id          : 12200
+ProcessName : svchost
+
+NPM         : 14040
+PM          : 3264512
+WS          : 5861376
+Id          : 12892
+ProcessName : svchost
+
+NPM         : 8696
+PM          : 1437696
+WS          : 6144000
+Id          : 14088
+ProcessName : svchost
+
+NPM         : 25872
+PM          : 5685248
+WS          : 22650880
+Id          : 15764
+ProcessName : svchost
+
+NPM         : 57392
+PM          : 2445312
+WS          : 4468736
+Id          : 16752
+ProcessName : svchost
+
+NPM         : 47320
+PM          : 3465216
+WS          : 7618560
+Id          : 16956
+ProcessName : svchost
+
+NPM         : 24976
+PM          : 37134336
+WS          : 22507520
+Id          : 18812
+ProcessName : svchost
+
+NPM         : 22936
+PM          : 9158656
+WS          : 20807680
+Id          : 19464
+ProcessName : svchost
+
+NPM         : 12312
+PM          : 1691648
+WS          : 7491584
+Id          : 20420
+ProcessName : svchost
+
+NPM         : 8272
+PM          : 1290240
+WS          : 5935104
+Id          : 20456
+ProcessName : svchost
+
+NPM         : 9848
+PM          : 1929216
+WS          : 7577600
+Id          : 20716
+ProcessName : svchost
+
+NPM         : 13552
+PM          : 3092480
+WS          : 13651968
+Id          : 21776
+ProcessName : svchost
+
+NPM         : 8832
+PM          : 3420160
+WS          : 9195520
+Id          : 22012
+ProcessName : svchost
+
+NPM         : 272
+PM          : 73728
+WS          : 3493888
+Id          : 4
+ProcessName : System
+
+NPM         : 75968
+PM          : 71999488
+WS          : 2183168
+Id          : 17844
+ProcessName : SystemSettings
+
+NPM         : 28680
+PM          : 8757248
+WS          : 34500608
+Id          : 16108
+ProcessName : SystemSettingsBroker
+
+NPM         : 32424
+PM          : 6901760
+WS          : 18006016
+Id          : 10692
+ProcessName : taskhostw
+
+NPM         : 9648
+PM          : 1880064
+WS          : 9105408
+Id          : 15540
+ProcessName : unsecapp
+
+NPM         : 10192
+PM          : 1921024
+WS          : 8908800
+Id          : 15400
+ProcessName : UserOOBEBroker
+
+NPM         : 68256
+PM          : 88694784
+WS          : 22007808
+Id          : 3032
+ProcessName : WhatsApp
+
+NPM         : 26928
+PM          : 8753152
+WS          : 34615296
+Id          : 17456
+ProcessName : Widgets
+
+NPM         : 18248
+PM          : 4902912
+WS          : 22687744
+Id          : 11228
+ProcessName : WidgetService
+
+NPM         : 60648
+PM          : 139763712
+WS          : 145358848
+Id          : 2272
+ProcessName : WindowsTerminal
+
+NPM         : 12472
+PM          : 1785856
+WS          : 3764224
+Id          : 1124
+ProcessName : wininit
+
+NPM         : 12840
+PM          : 2551808
+WS          : 11395072
+Id          : 12688
+ProcessName : winlogon
+
+NPM         : 7744
+PM          : 1273856
+WS          : 2322432
+Id          : 19304
+ProcessName : wlanext
+
+NPM         : 18696
+PM          : 17551360
+WS          : 12800000
+Id          : 3104
+ProcessName : WmiPrvSE
+
+NPM         : 9752
+PM          : 1851392
+WS          : 1826816
+Id          : 5664
+ProcessName : xTendUtility
+
+NPM         : 14760
+PM          : 15085568
+WS          : 6590464
+Id          : 5016
+ProcessName : xTendUtilityService
+
+
+

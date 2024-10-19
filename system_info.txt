@@ -1,0 +1,4 @@
+Power Source: Battery
+Battery Percentage: 68%
+Average Running Hours: 909.27 hours
+Total Annual Power Consumption: 6642.24 kWh
