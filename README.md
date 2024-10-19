@@ -27,7 +27,7 @@ To set up the project locally, follow these steps:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/Carbon-Emission-Optimization-Mode-for-Laptop-PC.git
+   git clone https://github.com/Rakshit68/Carbon-Emission-Optimization-Mode-for-Laptop-PC.git
 2. Navigate to the project directory:
    ```bash
    cd Carbon-Emission-Optimization-Mode-for-Laptop-PC
